@@ -2,18 +2,13 @@
   "repo": "nqoodlet",
   "feeds": [
     {
-      "source": "https://nqoodlet.com/en/feed/",
-      "error": "HTTPError"
-    },
-    {
       "source": "https://nqoodlet.com/en/pricing/",
       "feed_url": "https://nqoodlet.com/en/pricing/",
       "title": "",
       "saved": 0,
-      "method": "none",
-      "error": "parse_failed"
+      "method": "none"
     }
   ],
   "post_count": 10,
-  "fetched": "2026-08-15T12:11:08Z"
+  "fetched": "2026-08-22T20:20:02Z"
 }
